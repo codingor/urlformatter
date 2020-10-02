@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlFormatter", "UrlFormatter\UrlFormatter.csproj", "{1F986E16-E75E-4F84-BF09-A66F2644B204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlFormatter.Test", "UrlFormatter.Test\UrlFormatter.Test.csproj", "{B094F39C-CCF2-442E-8F79-FF3FE72FE6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F986E16-E75E-4F84-BF09-A66F2644B204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F986E16-E75E-4F84-BF09-A66F2644B204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F986E16-E75E-4F84-BF09-A66F2644B204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F986E16-E75E-4F84-BF09-A66F2644B204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B094F39C-CCF2-442E-8F79-FF3FE72FE6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B094F39C-CCF2-442E-8F79-FF3FE72FE6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B094F39C-CCF2-442E-8F79-FF3FE72FE6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B094F39C-CCF2-442E-8F79-FF3FE72FE6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D2F392-691E-49AC-AB85-D32824302F92}
+	EndGlobalSection
+EndGlobal
